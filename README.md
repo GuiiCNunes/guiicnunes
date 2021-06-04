@@ -1,11 +1,16 @@
 ## Hello folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 I'm Guilherme, and study to become a web developer.
-<img align='right' src='./images/octa1.png' width='200'>
+<img align='right' src='./images/octa1.png' width='300'>
 
-- :brazil: Florianópolis, SC - Brazil
-- :birthday: 1992
-- :hearts: :video_game: :jigsaw: :game_die: :robot: :book: :dog2: :cat2: :hearts:
+<details>
+<summary>About me</summary>
+  <li>:brazil: Florianópolis, SC - Brazil :brazil:</li>
+  <li>:birthday: 1992 :birthday:</li>
+  <li>:man_student: Archival Science by <a href="https://ufsc.br/">UFSC</a> :man_student:</li>
+  <li>:man_student: Systems Development Technician by <a href="https://www.ifsc.edu.br">IFSC</a> :man_student:</li>
+  <li>:hearts: :video_game: :jigsaw: :game_die: :robot: :book: :dog2: :cat2: :hearts:</li>
+</details>
 
 #### I’m currently learning:
 
