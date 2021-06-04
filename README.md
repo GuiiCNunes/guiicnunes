@@ -1,6 +1,11 @@
 ## Hello folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 I'm Guilherme, and study to become a web developer.
+<img align='right' src='./images/octa1.png' width='200'>
+
+- :brazil: Florianópolis, SC - Brazil
+- :birthday: 1992
+- :hearts: :video_game: :jigsaw: :game_die: :robot: :book: :dog2: :cat2: :hearts:
 
 #### I’m currently learning:
 
@@ -24,13 +29,17 @@ I'm Guilherme, and study to become a web developer.
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/arduino-2CA5E0?style=for-the-badge&logo=arduino&logoColor=white&color=lightgrey)
 
 #### Contact
 
   [![Gmail Badge](https://img.shields.io/badge/-guiicnunes@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:guiicnunes@gmail.com)](mailto:guiicnunes@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/-guiccnunes-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guiccnunes/)](https://www.linkedin.com/in/guiccnunes/)
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/GuiiCNunes#5160)
 
+<details>
+  <summary>Click</summary>
+</details>
 
 <!--
 **GuiiCNunes/guiicnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
