@@ -5,10 +5,11 @@ I'm Guilherme, and study to become a web developer.
 
 <details>
 <summary>About me</summary>
-  <li>:brazil: Florianópolis, SC - Brazil :brazil:</li>
+  <li>Florianópolis, SC - :brazil:</li>
   <li>:birthday: 1992 :birthday:</li>
   <li>:man_student: Archival Science by <a href="https://ufsc.br/">UFSC</a> :man_student:</li>
   <li>:man_student: Systems Development Technician by <a href="https://www.ifsc.edu.br">IFSC</a> :man_student:</li>
+  <li>Actually, I study at <a href="https://www.betrybe.com/">Trybe</a> <img src="./images/trybe_logo.jpeg" width="18"></li>
   <li>:hearts: :video_game: :jigsaw: :game_die: :robot: :book: :dog2: :cat2: :hearts:</li>
 </details>
 
@@ -42,9 +43,18 @@ I'm Guilherme, and study to become a web developer.
   [![Linkedin Badge](https://img.shields.io/badge/-guiccnunes-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guiccnunes/)](https://www.linkedin.com/in/guiccnunes/)
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/GuiiCNunes#5160)
 
-<details>
-  <summary>Click</summary>
-</details>
+#### Git Stats
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guiicnunes&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555" target="_blank" alt="Git Stats">
+  <br />
+  <!-- ![Git Stats](https://github-readme-stats.vercel.app/api?username=guiicnunes&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555) -->
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiicnunes&hide=html,&hide_border=true&title_color=5391FE&text_color=555" alt="Top Languages">
+
+  <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guiicnunes&hide=html,&hide_border=true&title_color=5391FE&text_color=555) -->
+
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=guiicnunes.guiicnunes)
+  <a href="https://github.com/guiicnunes/guiicnunes" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/guiicnunes/guiicnunes?label=last%20commit&?style=flat"></a>
 
 <!--
 **GuiiCNunes/guiicnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
