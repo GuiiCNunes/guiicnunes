@@ -40,7 +40,7 @@ I'm Guilherme, and study to become a web developer.
 #### Contact
 
   [![Gmail Badge](https://img.shields.io/badge/-guiicnunes@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:guiicnunes@gmail.com)](mailto:guiicnunes@gmail.com)
-  [![Linkedin Badge](https://img.shields.io/badge/-guiccnunes-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guiccnunes/)](https://www.linkedin.com/in/guiccnunes/)
+  [![Linkedin Badge](https://img.shields.io/badge/-guiicnunes-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guiicnunes/)
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/GuiiCNunes#5160)
 
 #### Git Stats
