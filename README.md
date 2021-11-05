@@ -1,6 +1,6 @@
 ## Hello folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I'm Guilherme, and study to become a web developer.
+I'm Guilherme, and I am studying to become a web developer
 <!-- <img align='right' src='./images/octa1.png' width='300'> -->
 
 <details>
