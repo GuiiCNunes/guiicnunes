@@ -18,12 +18,12 @@ I'm Guilherme, and study to become a web developer.
 
 ### I’m currently learning:
 
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=61DAFB)
-  ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-  ![JavaScrit](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express-009f38?style=for-the-badge&logo=express&logoColor=dafff1)
+  ![Node](https://img.shields.io/badge/NodeJS-68a063?style=for-the-badge&logo=node.js&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4eb33d?style=for-the-badge&logo=mongodb&logoColor=e8e7d5)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-394d54?style=for-the-badge&logo=docker&logoColor=0db6ed)
+  ![AWS](https://img.shields.io/badge/AWS-fe9900?style=for-the-badge&logo=amazonaws&logoColor=232F3E)
 
 ### I usually use:
 
@@ -35,11 +35,15 @@ I'm Guilherme, and study to become a web developer.
 ### I did study this:
 
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
   ![Arduino](https://img.shields.io/badge/arduino-2CA5E0?style=for-the-badge&logo=arduino&logoColor=white&color=lightgrey)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=61DAFB)
+  ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+  ![JavaScrit](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 </details>
 
@@ -66,7 +70,8 @@ I'm Guilherme, and study to become a web developer.
 
   [![Gmail Badge](https://img.shields.io/badge/-guiicnunes@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:guiicnunes@gmail.com)](mailto:guiicnunes@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/-guiicnunes-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guiicnunes/)
-  <!-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/GuiiCNunes#5160) -->
+  [![https://guiicnunes.github.io/](https://img.shields.io/badge/-guiicnunes.github.io-3f5672?style=for-the-badge&logo=github&logoColor=white)](https://guiicnunes.github.io/)  
+<!-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/GuiiCNunes#5160) -->
 
 <!--
 **GuiiCNunes/guiicnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
