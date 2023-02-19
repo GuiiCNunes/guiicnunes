@@ -9,7 +9,8 @@ I'm Guilherme, and I am studying to become a web developer
   <li>:birthday: 1992 :birthday:</li>
   <li>:man_student: Archival Science by <a href="https://ufsc.br/">UFSC</a> :man_student:</li>
   <li>:man_student: Systems Development Technician by <a href="https://www.ifsc.edu.br">IFSC</a> :man_student:</li>
-  <li>Currently, I'm studying at <a href="https://www.betrybe.com/">Trybe</a> <img src="./images/trybe_logo.jpeg" width="18"></li>
+  <li>:man_student: Web Development  by <a href="https://www.betrybe.com/">Trybe</a> <img src="./images/trybe_logo.jpeg" width="18"> :man_student:</li>
+  <li>:construction_worker: Junior Developer Level 6 at <a href="https://www.ilog.com.br/">Ilog Tecnologia</a> <img src="./images/ilog.png" width="18"> :construction_worker:</li>
   <li>:hearts: :video_game: :jigsaw: :game_die: :robot: :book: :dog2: :cat2: :hearts:</li>
 </details>
 
