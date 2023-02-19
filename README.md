@@ -17,27 +17,20 @@ I'm Guilherme, and I am studying to become a web developer
 <details>
 <summary>About languages and tools</summary>
 
-### I’m currently learning:
+### I’m currently working:
 
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4eb33d?style=for-the-badge&logo=mongodb&logoColor=e8e7d5)
   ![Express](https://img.shields.io/badge/Express-009f38?style=for-the-badge&logo=express&logoColor=dafff1)
   ![Node](https://img.shields.io/badge/NodeJS-68a063?style=for-the-badge&logo=node.js&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4eb33d?style=for-the-badge&logo=mongodb&logoColor=e8e7d5)
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-394d54?style=for-the-badge&logo=docker&logoColor=0db6ed)
-  ![AWS](https://img.shields.io/badge/AWS-fe9900?style=for-the-badge&logo=amazonaws&logoColor=232F3E)
-
-### I usually use:
-
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=for-the-badge&logo=Shell&color=orange)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-### I did study this:
-
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### I've worked/studied/used it:
+
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![Arduino](https://img.shields.io/badge/arduino-2CA5E0?style=for-the-badge&logo=arduino&logoColor=white&color=lightgrey)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=61DAFB)
@@ -45,6 +38,10 @@ I'm Guilherme, and I am studying to become a web developer
   ![JavaScrit](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=for-the-badge&logo=Shell&color=orange)
+  ![AWS](https://img.shields.io/badge/AWS-fe9900?style=for-the-badge&logo=amazonaws&logoColor=232F3E)
+
 
 </details>
 
@@ -72,19 +69,4 @@ I'm Guilherme, and I am studying to become a web developer
   [![Gmail Badge](https://img.shields.io/badge/-guiicnunes@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:guiicnunes@gmail.com)](mailto:guiicnunes@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/-guiicnunes-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guiicnunes/)
   [![https://guiicnunes.github.io/](https://img.shields.io/badge/-guiicnunes.github.io-3f5672?style=for-the-badge&logo=github&logoColor=white)](https://guiicnunes.github.io/)  
-<!-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/GuiiCNunes#5160) -->
 
-<!--
-**GuiiCNunes/guiicnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
